@@ -1,0 +1,7 @@
+<svg width="400" height="400" xmlns="http://www.w3.org/2000/svg">
+  <rect width="400" height="400" fill="#ede9fe"/>
+  <rect x="90" y="80" width="220" height="150" fill="#111827" rx="10"/>
+  <rect x="110" y="100" width="180" height="110" fill="#8b5cf6"/>
+  <rect x="60" y="250" width="280" height="30" fill="#6b7280" rx="5"/>
+  <text x="200" y="350" text-anchor="middle" font-size="30">Laptop</text>
+</svg>

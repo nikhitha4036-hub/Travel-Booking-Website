@@ -1,0 +1,5 @@
+<svg width="400" height="400" xmlns="http://www.w3.org/2000/svg">
+  <rect width="400" height="400" fill="#fef3c7"/>
+  <path d="M80 250 L220 250 L300 300 L330 300 L330 330 L70 330 Z" fill="#f59e0b"/>
+  <text x="200" y="370" text-anchor="middle" font-size="30">Shoes</text>
+</svg>
